@@ -45,14 +45,14 @@ deleteWeirdRemoteEvents(game)
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "L1ght.dev | TPS STREET SOCCER | cracked by histo/w1nd |",
-    Folder = "L1ghtScript",
+    Title = "TPS STREET SOCCER",
+    Folder = "WScript",
     IconSize = 20,
     NewElements = true,
     Size = UDim2.fromOffset(580, 500),
     HideSearchBar = false,
     OpenButton = {
-        Title = "L1ght",
+        Title = "W",
         CornerRadius = UDim.new(1, 0),
         StrokeThickness = 3,
         Enabled = true,
